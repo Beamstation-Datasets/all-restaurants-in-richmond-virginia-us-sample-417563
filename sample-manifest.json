@@ -1,0 +1,12 @@
+{
+  "export_job_id": "8eff948b-3b76-4c78-a2d1-53cdfd4699f0",
+  "id_short": 417563,
+  "published_at": "2026-04-12T19:06:09Z",
+  "repo_name": "all-restaurants-in-richmond-virginia-us-sample-417563",
+  "sample_asset_name": "beamstation_417563_restaurants-us-va_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/417563/beamstation_417563_restaurants-us-va_SAMPLE_DIST.csv",
+  "sample_records": 212,
+  "sample_sha256": "49776638830cc571bfff483f49a2da4736359ca536a67aed041a1cb37d0c70b8",
+  "sample_size_bytes": 881009,
+  "total_records": 2121
+}
