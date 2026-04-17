@@ -1,6 +1,6 @@
 # All Restaurants in Richmond, Virginia, US
 
-> Free BeamStation sample export with 212 rows and masked direct-contact fields.
+> Free BeamStation sample export with 211 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `417563` |
 | Location | Richmond |
 | Category | Restaurants |
-| Full dataset size | 2,121 records |
-| Free sample size | 212 records (10.0%) |
-| Last export | 2026-04-07T12:00:44.041740+00:00 |
+| Full dataset size | 2,112 records |
+| Free sample size | 211 records (9.99%) |
+| Last export | 2026-04-14T11:55:46.346119+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-richmond-virginia-us-sample-417563/releases/download/sample-latest/beamstation_417563_restaurants-us-va_SAMPLE_DIST.csv) |
 
 ## What is in this sample
